@@ -1,5 +1,7 @@
 -- job-db Schema Structure
--- SQL Export for GitHub (No Data Included)
+-- first create a database named: "job-db"
+-- Then, Paste the following code in SQL section in PHPmyadmin
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
